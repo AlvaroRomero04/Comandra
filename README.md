@@ -1,2 +1,2 @@
 # Comandra
-Juego basado en FNAF por Álvaro Romero osea yo
+Juego basado en FNAF por Álvaro Romero (Álvaro  Romero soy yo)
